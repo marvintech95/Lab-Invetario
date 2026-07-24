@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Inventário de Gaveteiros</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+
+    <!--
+      CABEÇALHO PRINCIPAL
+      Mantido curto e objetivo para reforçar que esta página
+      existe прежде de tudo como ferramenta de consulta.
+    -->
+    <header class="app-header">
+      <h1>Inventário de Gaveteiros</h1>
+      <p>Pesquisa rápida de componentes e localização física.</p>
+    </header>
+
+    <!--
+      CONTROLES DE BUSCA
+      A busca é o elemento mais importante da tela. Os filtros
+      adicionais ficam como apoio para refinar a pesquisa.
+    -->
+    <section class="controls" aria-label="Filtros de pesquisa">
+      <input
+        type="search"
+        id="searchInput"
+        placeholder="Buscar por componente, código, gaveteiro..."
+        aria-label="Buscar no inventário"
+      />
+
+      <select id="gaveteiroFilter" aria-label="Filtrar por gaveteiro">
+        <option value="">Todos os gaveteiros</option>
+      </select>
+
+      <select id="statusFilter" aria-label="Filtrar por status">
+        <option value="">Todos os status</option>
+        <option value="OK">OK</option>
+        <option value="BAIXO">BAIXO</option>
+        <option value="CRITICO">CRITICO</option>
+      </select>
+    </section>
+
+    <!--
+      RESUMO LEVE
+      Aqui ficam apenas os indicadores básicos de consulta.
+      Na versão atual, o objetivo é informar sem competir com
+      a busca.
+    -->
+    <section class="summary" aria-label="Resumo dos resultados">
+      <div id="summaryCount">0 itens</div>
+      <div id="summaryEmpty">0 vazios</div>
+      <div id="summaryRevision">Revisão: --</div>
+    </section>
+
+    <!--
+      ÁREA DA TABELA
+      A tabela é o local principal onde os resultados aparecem.
+      O corpo será preenchido dinamicamente pelo JavaScript.
+    -->
+    <section class="table-container" aria-label="Resultados do inventário">
+      <table>
+        <thead>
+          <tr>
+            <th>Código</th>
+            <th>Componente</th>
+            <th>Qtd.</th>
+            <th>Gaveteiro</th>
+            <th>Seção</th>
+            <th>Gaveta Específica</th>
+          </tr>
+        </thead>
+        <tbody id="inventoryTableBody"></tbody>
+      </table>
+    </section>
+
+    <!--
+      MENSAGENS DA APLICAÇÃO
+      Usado para avisos, estado vazio da pesquisa e erros de
+      carregamento do JSON.
+    -->
+    <section id="messageArea" class="message-area" aria-live="polite"></section>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+  </html>
