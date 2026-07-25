@@ -1,0 +1,677 @@
+{
+  "inventario": {
+    "armario": "Primeiro Armário",
+    "coluna": "Segunda e Terceira colunas",
+    "gaveteiros": [
+      {
+        "gaveteiro": "Gaveteiro 01",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "SMD 01 a 05",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "SMD 01": ["VAZIO", "UC2875DW", "LM358M", "D7F3CGK", "UC3843AD", "4N33028"],
+              "SMD 02": ["BAV995MD", "UC2843AD", "VAZIO", "HEF4013BT", "UC3854DW", "HEF4081BT"],
+              "SMD 03": ["BZX84C12", "BZX84C18", "4019B", "TLC372", "LM311", "UC2875DWP"],
+              "SMD 04": ["HC4066A", "CD4013", "HC4538", "1SMA5929BT3G", "VAZIO", "VAZIO"],
+              "SMD 05": ["HEF40106BT", "HEF4046B", "HEF4073", "HEF4011", "CD4070BCM", "14077B"]
+            }
+          },
+          {
+            "nome_secao": "SMD 06 a 10",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "SMD 06": ["IR2113S", "MC3303D", "LM224", "UC3854", "HCNR200", "LM324DG"],
+              "SMD 07": ["DG211BDY", "L4981", "C324G", "257602T-5", "AC08", "431AC"],
+              "SMD 08": ["OMF63", "LF459", "OMF250", "LF3A", "CXD1217M", "26LS31"],
+              "SMD 09": ["C940", "PJ4NMK", "LM78L", "ADM211", "MC33274", "VAZIO"],
+              "SMD 10": ["BZX84C15", "VAZIO", "BZX84C27", "BZX84C22", "76P", "VAZIO"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 02",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "SMD 11 a 15",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "SMD 11": ["VAZIO", "VAZIO", "VAZIO", "VAZIO", "VAZIO", "VAZIO"],
+              "SMD 12": ["VS", "SM2", "BZX84B12LT1G", "BSP296", "T1P38", "VAZIO"],
+              "SMD 13": ["BC807", "1P", "BZX84C5V1", "7805", "N776", "VAZIO"],
+              "SMD 14": ["BLPOD", "BZG03C150", "Y6P", "A6", "521UIJ", "VAZIO"],
+              "SMD 15": ["BCP52", "US1MR2", "BP04", "VAZIO", "UF16", "MUR5160T3"]
+            }
+          },
+          {
+            "nome_secao": "SMD 16 a 20",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "SMD 16": ["G15-02R", "151", "121", "102", "1001", "2201"],
+              "SMD 17": ["1R", "2R2", "4R7", "10R", "22R", "33R"],
+              "SMD 18": ["2K7R", "4K3", "5K6", "4K7", "BFR93AR", "332"],
+              "SMD 19": ["47K", "8K2", "12K", "5,6KΩ", "15K - 20K", "VAZIO"],
+              "SMD 20": ["100K", "150K", "180K", "VAZIO", "VAZIO", "VAZIO"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 03",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "SMD 21 a 25",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "SMD 21": ["273K", "287K", "470K", "750K", "1M - 3M", "56K"],
+              "SMD 22": ["20K", "24K", "0R", "1R5", "2K61", "6K19"],
+              "SMD 23": ["8R2", "1K47", "10K", "25K5", "1K2", "VAZIO"],
+              "SMD 24": ["470pF,g", "VAZIO", "VAZIO", "VAZIO", "VAZIO", "VAZIO"],
+              "SMD 25": ["100nF", "84nF", "220K", "3nF", "FILTRO CAP. SUB.", "VAZIO"]
+            }
+          },
+          {
+            "nome_secao": "SMD 26 a 30 (Avulsos)",
+            "data_revisao": "Parcialmente Revisado (2026-12-20)",
+            "gavetas": {
+              "SMD 26": ["5DP", "Y4", "Y6", "A7580", "Y10", "A7"],
+              "SMD + (avulsos)": ["Mapeamento Geral pendente de discriminação"],
+              "CI's Avulsos": ["Mapeamento Geral pendente de discriminação"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 04",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "ZENER 01 a 05",
+            "data_revisao": "2026-12-27",
+            "gavetas": {
+              "ZENER 01": ["1N4725", "2V7", "1N4729", "1N5335", "1N821", "6V2"],
+              "ZENER 02": ["5V1", "IN4733", "5V6", "4735AP", "1N754", "6V8"],
+              "ZENER 03": ["IN4737", "4V7", "1N755", "7V5", "12V", "4737AP"],
+              "ZENER 04": ["1N4738", "8V2", "1N4739", "1N4740", "C12ST", "IN4742"],
+              "ZENER 05": ["1N962", "85C12", "-", "-", "Z128", "VAZIO"]
+            }
+          },
+          {
+            "nome_secao": "ZENER 06 a 10",
+            "data_revisao": "2026-04-27",
+            "gavetas": {
+              "ZENER 06": ["87C13", "B13PH", "1N4744A", "1N5352B", "1N981B", "C13PH"],
+              "ZENER 07": ["1N4752", "9C12", "1N4753", "1N6380", "1N535", "VAZIO"],
+              "ZENER 08": ["1N3044", "1N5377B", "PH4148", "1N3005B", "1N5378", "1N5381"],
+              "ZENER 09": ["1N5885", "1N5383", "VAZIO", "BZV85C", "BAV21", "1N914A"],
+              "ZENER 10": ["1N966A", "BAT43", "C56PH", "1N5264", "9C15", "B13PH"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 05",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI DE MEMÓRIA 01 a 05",
+            "data_revisao": "2026-04-20",
+            "gavetas": {
+              "CI DE MEMÓRIA 01": ["27C512", "27C512", "27C32", "27C32", "HM6116", "27C08"],
+              "CI DE MEMÓRIA 02": ["27C64", "27C64", "MC68HC705P", "HY6264", "D8257C"],
+              "CI DE MEMÓRIA 03": ["MPS7201", "ICM7224IPL", "D5C031-40", "D27512", "-", "D8748-8"],
+              "CI DE MEMÓRIA 04": ["D2732A", "TMS2732AJL-45", "AM2708", "48401080BG", "TM527C256-12", "TM527C256-15"],
+              "CI DE MEMÓRIA 05": ["PIC16F628", "N80C188-16", "AT89C55", "87C51", "AT85C55WD", "MC6821P"]
+            }
+          },
+          {
+            "nome_secao": "CI DE MEMÓRIA 06 a 10",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "CI DE MEMÓRIA 06": ["X28C256D-25", "Z8440AB1", "D5Z121-90", "U1009SS0", "D7220AD", "UM8031"],
+              "CI DE MEMÓRIA 07": ["LB9030", "HN4827128G-25", "ICM2732A-25", "AT89C4051", "D2716D", "M2716M"],
+              "CI DE MEMÓRIA 08": ["P8251A", "M5L8283P", "D27128D", "8431GAP", "ICL7106", "D8087-2"],
+              "CI DE MEMÓRIA 09": ["D5C121-90", "PAL20R4ANC", "PIC16F84A-047/P", "A6812EEPT", "TMM2064P-10", "X2004"],
+              "CI DE MEMÓRIA 10": ["AT28C16", "N8X60N", "A29040B-70F", "Z0853006PSC", "D8741A", "F1096170"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 06",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "TRANSISTORES 01 a 05",
+            "data_revisao": "2026-12-28",
+            "gavetas": {
+              "TRANSISTORES 01": [
+                {"componente": "A1015", "qtd": 10},
+                {"componente": "A1837", "qtd": 4},
+                {"componente": "A92", "qtd": 18},
+                {"componente": "KSP92-003", "qtd": 20},
+                {"componente": "AD161", "qtd": 1},
+                {"componente": "BC140-16", "qtd": 18}
+              ],
+              "TRANSISTORES 02": [
+                {"componente": "BC141", "qtd": 29},
+                {"componente": "BC160-16", "qtd": 9},
+                {"componente": "BC161", "qtd": 8},
+                {"componente": "BC237B(A)", "qtd": 45},
+                {"componente": "BC327", "qtd": 3},
+                {"componente": "BC337", "qtd": 3}
+              ],
+              "TRANSISTORES 03": [
+                {"componente": "BC516", "qtd": 41},
+                {"componente": "BC517", "qtd": 23},
+                {"componente": "BC546", "qtd": 34},
+                {"componente": "BC547B", "qtd": 25},
+                {"componente": "BC548", "qtd": 6},
+                {"componente": "BD137", "qtd": 9}
+              ],
+              "TRANSISTORES 04": [
+                {"componente": "BC559", "qtd": 2},
+                {"componente": "2N3585", "qtd": 5},
+                {"componente": "BC639", "qtd": 42},
+                {"componente": "B8C880", "qtd": 6},
+                {"componente": "BC635", "qtd": 7},
+                {"componente": "BC558", "qtd": 28}
+              ],
+              "TRANSISTORES 05": [
+                {"componente": "BD139-16", "qtd": 14},
+                {"componente": "BD140-16", "qtd": 8},
+                {"componente": "BD433", "qtd": 3},
+                {"componente": "BDT63A", "qtd": 4},
+                {"componente": "BDY93F7510", "qtd": 6},
+                {"componente": "BF256B", "qtd": 45}
+              ]
+            }
+          },
+          {
+            "nome_secao": "TRANSISTORES 06 a 10",
+            "data_revisao": "2026-12-28",
+            "gavetas": {
+              "TRANSISTORES 06": [
+                {"componente": "BF422", "qtd": 18},
+                {"componente": "BF423", "qtd": 22},
+                {"componente": "BF458", "qtd": 1},
+                {"componente": "BFX84", "qtd": 1},
+                {"componente": "BFX85", "qtd": 12},
+                {"componente": "BFX88", "qtd": 5}
+              ],
+              "TRANSISTORES 07": [
+                {"componente": "BFY51", "qtd": 14},
+                {"componente": "B048 MJ 4B", "qtd": 7},
+                {"componente": "BSX20", "qtd": 6},
+                {"componente": "BT137", "qtd": 0},
+                {"componente": "BT151", "qtd": 7},
+                {"componente": "BF305", "qtd": 7}
+              ],
+              "TRANSISTORES 08": [
+                {"componente": "BTA26", "qtd": 0},
+                {"componente": "BU208", "qtd": 2},
+                {"componente": "BU2506", "qtd": 0},
+                {"componente": "BU2508DX", "qtd": 5},
+                {"componente": "BU2525", "qtd": 0},
+                {"componente": "BU2522", "qtd": 1}
+              ],
+              "TRANSISTORES 09": [
+                {"componente": "BUK438", "qtd": 4},
+                {"componente": "BU406", "qtd": 5},
+                {"componente": "BUW12A", "qtd": 0},
+                {"componente": "BUX41", "qtd": 1},
+                {"componente": "BUX42", "qtd": 2},
+                {"componente": "2N2219A", "qtd": 5}
+              ],
+              "TRANSISTORES 10": [
+                {"componente": "BUT33 / BUV18", "qtd": 1},
+                {"componente": "BUX17A", "qtd": 15},
+                {"componente": "BUX43", "qtd": 2},
+                {"componente": "BUX46", "qtd": 9},
+                {"componente": "BUZ54", "qtd": 4},
+                {"componente": "CTBC640", "qtd": 26}
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 07",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "TRANSISTORES 11 a 15",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "TRANSISTORES 11": ["C307", "CEPFZ4496LA", "MPB6045PT", "CV7404", "BD115", "EM3110"],
+              "TRANSISTORES 12": ["BC640", "G4PC50UD", "IRF19634G", "F422", "IRFP2907", "IRFP460"],
+              "TRANSISTORES 13": ["4NA80", "MPSA42", "MJL21194", "IRFP450", "MJL21193", "MJ10023"],
+              "TRANSISTORES 14": ["TIP122", "TIP126", "NTE232", "TIP121", "TIP136", "KSP92"],
+              "TRANSISTORES 15": ["CV7431", "K30A", "BC182", "G4PC50S", "D45H8G", "2N2222"]
+            }
+          },
+          {
+            "nome_secao": "TRANSISTORES 16 a 20",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "TRANSISTORES 16": ["2N1671", "2N1507", "2N1711", "VAZIO", "L51J004", "CT2N3905"],
+              "TRANSISTORES 17": ["VAZIO", "2N2904", "MPS2907", "2N2818", "-", "2N2919"],
+              "TRANSISTORES 18": ["2N3054", "2N3441", "2N3442", "2N3440", "VAZIO", "2N2369"],
+              "TRANSISTORES 19": ["2N3773", "-", "-", "-", "FT2955", "FS7KM16A"],
+              "TRANSISTORES 20": ["2N3903", "TIP3055", "2N4416", "2N4403", "2N1188", "UA7812G"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 08",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "TRANSISTORES 21 a 25",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "TRANSISTORES 21": ["2N6248", "2N660", "2N6675", "2N5416", "2N5415", "2N5784"],
+              "TRANSISTORES 22": ["2N5401", "2N5189", "C547B", "BC10640", "LM334", "2N6668"],
+              "TRANSISTORES 23": ["2N2905", "2N3553", "2N3741", "2N3879", "2N3904", "TIP36"],
+              "TRANSISTORES 24": ["2N6283", "-", "2N2646", "2N3906", "2N3819", "2N6028"],
+              "TRANSISTORES 25": ["2N3772", "-", "2N3055", "-", "-", "2N3208"]
+            }
+          },
+          {
+            "nome_secao": "TRANSISTORES 26 a 30",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "TRANSISTORES 26": ["VAZIO", "VAZIO", "2N3107", "MCR22-B", "BC636", "BD135"],
+              "TRANSISTORES 27": ["VP0300F", "VN66AFD", "MPSL51", "18200C4", "TIP41", "17824T"],
+              "TRANSISTORES 28": ["2N5672", "AD3172", "D313", "BD140", "JE340", "MJ15003"],
+              "TRANSISTORES 29": ["C4793", "MJ802", "MJ10005", "MJ11032", "MJ11015", "MJ3001"],
+              "TRANSISTORES 30": ["2N157A", "7282W", "2N6339", "IRF3710", "SB1640CT", "BC238"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 09",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "TRANSISTORES 31 a 35",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "TRANSISTORES 31": ["2N5322", "2N1893", "STR4A60S", "2N2324", "2N2218", "FPN2907A"],
+              "TRANSISTORES 32": ["VAZIO", "Q6015L", "2N3771", "BU2520", "TIP147", "IRFP22N50A"],
+              "TRANSISTORES 33": ["K2699", "K3799", "BYV34", "U1560CQ425", "U860CQ148", "BUX348A"],
+              "TRANSISTORES 34": ["TIP110", "TIP112", "TIP115", "TIP117", "TIP127", "ZTX690B"],
+              "TRANSISTORES 35": ["TIP152", "J4215-O", "J4315-O", "MBR6045PT", "MGY30N60", "TIP 145"]
+            }
+          },
+          {
+            "nome_secao": "TRANSISTORES 36 a 40",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "TRANSISTORES 36": ["K58245A1", "-", "BD678", "2N3711", "2N3702", "2N726"],
+              "TRANSISTORES 37": ["TIP 107", "TIP 31", "TIP 32", "TIP 34", "TIP 42", "TIP 50"],
+              "TRANSISTORES 38": ["TIP 35", "TIP 36", "TIP 140", "TIP 41", "TIP 126", "MFEI20"],
+              "TRANSISTORES 39": ["TOP 227Y", "2N3439", "BD677", "MPS6514", "SBL2040", "BTA12600B"],
+              "TRANSISTORES 40": ["TIC206D", "BT139", "TIC 126N", "TIC 126M", "TIC 106", "DIAC DB10 226996"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 10",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI LINEAR 01 a 05",
+            "data_revisao": "2027-01-02",
+            "gavetas": {
+              "CI LINEAR 01": ["LM2904", "LT1019", "LM725", "MC1408", "LM2907", "-"],
+              "CI LINEAR 02": ["KA3725A", "LM355", "LM311", "LM239", "MAX690EPA", "LM308"],
+              "CI LINEAR 03": ["LM392/393", "UA741", "LM1458/4558", "LM723", "LM747", "HCF4001"],
+              "CI LINEAR 04": ["LM348", "LM339N", "-", "LM346N", "LM358N", "SP721"],
+              "CI LINEAR 05": ["HD37350", "HEF40098BP", "HM6264LP-12", "F40085N", "IR2151", "D27512"]
+            }
+          },
+          {
+            "nome_secao": "CI LINEAR 06 a 10",
+            "data_revisao": "2027-02-14",
+            "gavetas": {
+              "CI LINEAR 06": ["TA7504M", "TC4420", "TC4428", "TDA4718A", "TL494", "TC9400"],
+              "CI LINEAR 07": ["TCA780", "UC2875", "UC2854", "UC3854", "UC3901", "UC3845"],
+              "CI LINEAR 08": ["MC33151P", "MC33153P", "MC33174P", "MC34002P", "NE556N", "PAL12H6CN"],
+              "CI LINEAR 09": ["QTC6140A", "SG1525", "SG3525", "SN7517BP", "SN75182N", "SG3524"],
+              "CI LINEAR 10": ["ML8205", "MC3303P", "MC3403N", "HD14015BP", "MC14024BCP", "MC14053BCP"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 11",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI LINEAR 11 a 15",
+            "data_revisao": "2026-12-29",
+            "gavetas": {
+              "CI LINEAR 11": ["MC14067BCP", "MC14078", "MC14174BCP", "MC14584B", "MC14569B", "MC14541BCP"],
+              "CI LINEAR 12": ["316B470", "ULN2001A", "ULN2804A", "VQ1000J", "UC3875N", "TD62083AP"],
+              "CI LINEAR 13": ["34004B", "AM26LS31", "DS26LS32CN", "MC145026P", "MC14060BAL", "PMI0P0I"],
+              "CI LINEAR 14": ["4066", "4068", "4069", "4070", "4073", "4081"],
+              "CI LINEAR 15": ["4082", "4093", "4098", "40106", "4503", "4538"]
+            }
+          },
+          {
+            "nome_secao": "CI LINEAR 16 a 20",
+            "data_revisao": "2026-12-29",
+            "gavetas": {
+              "CI LINEAR 16": ["4012", "4013", "4016", "4017/4018", "4020", "4023"],
+              "CI LINEAR 17": ["4024", "4028", "4029", "4030", "4035", "4040"],
+              "CI LINEAR 18": ["4046", "4047", "4049", "4050", "4051", "4060"],
+              "CI LINEAR 19": ["4000", "4001", "4010", "4011", "-", "-"],
+              "CI LINEAR 20": ["74LS06", "74LS07", "74LS08", "74LS09", "74LS10", "-"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 12",
+        "localizacao_detalhada": "Primeiro Armário segunda coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI LINEAR 21 a 25",
+            "data_revisao": "2026-12-29",
+            "gavetas": {
+              "CI LINEAR 21": ["74LS73", "74LS74", "74LS75", "74LS86", "74LS85", "74LS89"],
+              "CI LINEAR 22": ["74LS11", "74LS14", "74LS20", "74LS28", "74LS13", "74LS30"],
+              "CI LINEAR 23": ["74LS00", "74LS01", "74LS02", "74LS03", "74LS04", "74LS05"],
+              "CI LINEAR 24": ["74LS122", "74LS123", "74LS125", "74LS133", "74LS138", "74LS139"],
+              "CI LINEAR 25": ["74LS32", "74LS33", "74LS37", "74LS38", "74HC4075", "74LS42"]
+            }
+          },
+          {
+            "nome_secao": "CI LINEAR 26 a 30",
+            "data_revisao": "2027-02-14",
+            "gavetas": {
+              "CI LINEAR 26": ["74LS257", "74LS259", "74LS266", "74LS273", "74279", "74LS290"],
+              "CI LINEAR 27": ["74LS192", "74LS240", "74LS244", "74LS245", "74LS253", "-"],
+              "CI LINEAR 28": ["74LS163", "74LS164", "74LS166", "74LS174", "74LS175", "-"],
+              "CI LINEAR 29": ["74LS148", "74LS156", "74LS157", "74LS159", "74LS161AN", "-"],
+              "CI LINEAR 30": ["TMM2116P", "QP2114AL", "MSM2114L", "CD4027BE", "CD4028BCN", "74HC423AN"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 13",
+        "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI LINEAR 31 a 35",
+            "data_revisao": "2026-04-24",
+            "gavetas": {
+              "CI LINEAR 31": ["IR3403", "NE555N", "DS8923AN", "HEF4071BP", "AD571KD", "733W001"],
+              "CI LINEAR 32": ["74HC423E", "74LS73AN", "74LS623N", "74ALS645A", "-", "74ALS646"],
+              "CI LINEAR 33": ["74LS197", "74LS195", "CA3290E", "AD3172", "LM3900N", "74HC521N"],
+              "CI LINEAR 34": ["LM311N", "DAC312", "TMM314APL", "LM318DE", "LM324N", "LM326N"],
+              "CI LINEAR 35": ["LM331N", "P0136SD", "74HC14H", "74HC161N", "74HC191E", "LF355"]
+            }
+          },
+          {
+            "nome_secao": "CI LINEAR 36 a 40",
+            "data_revisao": "2026-04-24",
+            "gavetas": {
+              "CI LINEAR 36": ["MCY74002", "LM3914N", "LM1524DJ", "MC1489AP", "IR2111", "74HC373"],
+              "CI LINEAR 37": ["HCF4045BE", "CD4042BE", "CD4043BE", "MC14411P", "HCF4020BE", "74HC02P"],
+              "CI LINEAR 38": ["MC1488N", "74LS373P", "74LS374N", "74LS379N", "74LS393N", "74LS377P"],
+              "CI LINEAR 39": ["CD4518BE", "LM1830N", "766S14FF", "CD4099BE", "CD4002BCM", "HCF4002BE"],
+              "CI LINEAR 40": ["2EQ8320", "LM10CLN", "LM11CN", "SE-26 10K 6K", "VFC32KP", "LM3886T"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 14",
+        "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI LINEAR 41 a 45",
+            "data_revisao": "2026-04-24",
+            "gavetas": {
+              "CI LINEAR 41": ["IP7Y3G", "ZZ8410AB1", "M2716F1", "TL082CN", "TL084CN", "7AZN86W"],
+              "CI LINEAR 42": ["AM91L14EPC", "DM9368N", "LM13600N", "LM13700N", "MC14007UB", "22AXF7K"],
+              "CI LINEAR 43": ["LM709CN", "MSN2128", "TEA2261", "LM13700N", "IR2403", "AM2503"],
+              "CI LINEAR 44": ["TL7705", "C7002C", "LM748CH", "LM759CH", "CD40107", "ADC0820B"],
+              "CI LINEAR 45": ["SG3525AN", "HD3633", "TDA3653B", "M58206", "LM399H", "MC14082"]
+            }
+          },
+          {
+            "nome_secao": "CI LINEAR 46 a 50",
+            "data_revisao": "2026-04-25",
+            "gavetas": {
+              "CI LINEAR 46": ["HCF4094BE", "ADM211EAR", "MBL8283", "LM2904P", "BCY59X", "ICM7218"],
+              "CI LINEAR 47": ["MC1709L", "ULN2064", "TC4556BP", "HCF4541BE", "MC14503", "SD4519BE"],
+              "CI LINEAR 48": ["D8253C", "-", "-", "-", "D80C187", "-"],
+              "CI LINEAR 49": ["P8253-5", "-", "-", "-", "-", "-"],
+              "CI LINEAR 50": ["LM117H", "LM137", "4N33", "LM320", "LM385", "TI347"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 15",
+        "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI LINEAR 51 a 55",
+            "data_revisao": "2026-04-25",
+            "gavetas": {
+              "CI LINEAR 51": ["M58212P", "74LS90N", "ICM7556MJD", "D8035LC", "HCF4085BE", "UC3825N"],
+              "CI LINEAR 52": ["CA324E", "9012", "9642", "9215", "CD4556BE", "74C941N"],
+              "CI 53": ["LF355AN", "DS3695N", "HM624ALP", "D1801C", "54ALS374", "SDU8253"],
+              "CI 54": ["P8237A", "I1-506A", "LM305H", "PAL16L8ACN", "TMS4016", "PAL20L10ACNS"],
+              "CI 55": ["C8087", "COMC65", "HPN136", "AM7201", "HM6116P", "HM6116LP"]
+            }
+          },
+          {
+            "nome_secao": "CI 56 a 60",
+            "data_revisao": "2026-04-25",
+            "gavetas": {
+              "CI 56": ["MC3523U", "HEF4528", "TC4584BP", "MC14071B", "PAL16L8-15CN", "MM80C98N"],
+              "CI 57": ["949PC", "-", "D71055C", "D8087", "X2816BP", "OP471"],
+              "CI 58": ["AM2911", "9370DC", "CP8544", "CNY75GA", "74HC11N", "CY7C187"],
+              "CI 59": ["4516BPC", "MC145027", "LM7111", "IR8908", "CD40175BCN", "OP07CN"],
+              "CI 60": ["CD4516", "MC1416", "FSA2501M", "ITT945-5D", "H111DI", "-"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 16",
+        "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI 61 a 65",
+            "data_revisao": "2026-04-25",
+            "gavetas": {
+              "CI 61": ["74LS125AN", "-", "-", "MC14106BCP", "AD7541AKN", "HM6147HP"],
+              "CI 62": ["M58678P M58677", "AM9511A", "M58680P", "IH6216CJI", "AM543", "-"],
+              "CI 63": ["IL300", "LA120P", "9644H", "HEF4013BP", "HM6167LP", "7493N"],
+              "CI 64": ["P8237", "PAL16R4ACJ", "PAL20L10AC", "P8259A", "KM62256ALP", "WD935A"],
+              "CI 65": ["LH2311D", "LM1524J", "DG506ABK", "IR8908", "ICL8038CC", "I1-507A"]
+            }
+          },
+          {
+            "nome_secao": "CI 66 a 70",
+            "data_revisao": "2026-04-25",
+            "gavetas": {
+              "CI 66": ["D8085AC", "MC14106", "TMS1273NL", "P8255A", "SN74107N", "MC6850P"],
+              "CI 67": ["4N25", "AD536A", "CNY74", "CNY17", "TIL111", "H11B255"],
+              "CI 68": ["ADG528AKN", "4N24A", "V951H68", "CA82858", "TI523", "MC75174BP"],
+              "CI 69": ["DM81LS95J", "SN75175N", "DG133AP", "HD1477BP", "F944PC", "-"],
+              "CI 70": ["AD7524JN", "LM1203N", "MAX690", "ZTX751", "IH5009", "HA5320"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 17",
+        "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI 71 a 75",
+            "data_revisao": "2026-04-25",
+            "gavetas": {
+              "CI 71": ["SAB8205P", "TDA7000", "D1-6409", "MPC508AG", "4116R", "M54519P"],
+              "CI 72": ["UC1901J", "-", "MC671LD", "-", "TDA2040", "CA3130T"],
+              "CI 73": ["DG200AC", "6N136", "P8085AH", "-", "-", "-"],
+              "CI 74": ["AD632A", "74LS283P", "DM74367N", "74LS367AN", "SN54HCT244", "INA101HP"],
+              "CI 75": ["LM140", "-", "LM317", "LM334", "LM336", "LM340"]
+            }
+          },
+          {
+            "nome_secao": "CI 76 e REGULADORES 01 a 04",
+            "data_revisao": "2026-04-25",
+            "gavetas": {
+              "CI 76": ["TL432", "LT1071", "MC723", "LM2575T", "LM337T", "TDA2050"],
+              "REGULADORES 01": ["7805", "78L05", "7806", "7808", "7809", "7812"],
+              "REGULADORES 02": ["78L12", "7815", "78L15", "7818", "7824", "78L24"],
+              "REGULADORES 03": ["7905", "VAZIO", "7906", "7908", "VAZIO", "7912"],
+              "REGULADORES 04": ["VAZIO", "7915", "VAZIO", "VAZIO", "7924", "VAZIO"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 18",
+        "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI 01 a 05",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "CI 01": ["AMI8450", "OP471", "MBL8088", "SN7491", "AT89C85WD", "I8205"],
+              "CI 02": ["MC74HC534", "T74L593", "SN5407J", "SN7426N", "1590A41H", "Q30AXQ18-1LA4"],
+              "CI 03": ["SN74LS221N", "SN744145N", "IC74LS367", "SN74LS283N", "74LS51", "DM8820AN"],
+              "CI 04": ["MD8155H", "DG506ABK", "UCI901J", "-", "DM74LS21N", "D8088"],
+              "CI 05": ["NS405-B18N", "DM7426N", "RH8122G", "-", "D2817A", "RH15A332G"]
+            }
+          },
+          {
+            "nome_secao": "CI 06 a 10",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "CI 06": ["MC14562", "MC14529", "LF256H", "RT4174501", "MC1748", "77CD2YM"],
+              "CI 07": ["TL182CN", "DAC1020", "AD558JN", "IC2560T", "AD7524", "M51995AP"],
+              "CI 08": ["CD4585BE", "C3423C", "RH8Y122G", "IC2560T", "HD74SL21P", "SN7493AN"],
+              "CI 09": ["TDA1675A", "SN74LS21N", "PAL16C1NC", "L6569A", "S8015", "TDA1524A"],
+              "CI 10": ["DM7492AN", "TC4556BP", "F12134F", "TL7705ACP", "SNC54LS266J", "CD4071"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 19",
+        "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI 11 a 15",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "CI 11": ["MC668L", "-", "-", "P8237A", "GT4664205", "SN7446"],
+              "CI 12": ["413ZR20", "TMM2068D-5S", "TIL113", "TIL117", "RH8Y102J", "P52001B"],
+              "CI 13": ["AD7533JN", "UA3086", "LM3086", "MWS5101EL3", "CA3086", "EF6850"],
+              "CI 14": ["QTCH11A1", "AM91LI4EPC", "AM9111DPC", "CA314", "SM7576", "AM9111CPC"],
+              "CI 15": ["RC4136N", "HCF4060BE", "G4481532BW", "G4189101BM", "TM5085NC", "L6270054"]
+            }
+          },
+          {
+            "nome_secao": "CI 16 a 20",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "CI 16": ["V4048D", "LM2917", "P3205", "LM2917N-8", "MOC3041", "CA3085H"],
+              "CI 17": ["D80287-8", "KA567", "HEF4528", "FDS5235", "LM566", "SN7412"],
+              "CI 18": ["MB8516", "LM1917N-8", "M5003F", "AD3172-1", "HEF4724-BP", "BA612"],
+              "CI 19": ["LM3585MD", "UC3525ADW", "UC3845AM", "DS75160AN", "ADM211EARZ", "TC5402BP"],
+              "CI 20": ["ID8279", "TL074CN", "HFC4516", "UA741DM", "-", "VAZIO"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 20",
+        "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI 21 a 25",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "CI 21": ["MC14511BCP", "MC1489N", "MC14015", "HM6287LP-70", "HI5043  2", "SN74HC86N"],
+              "CI 22": ["D8253", "TC4555BP", "LS141T", "DAC-08CN", "CA3046", "IR2112"],
+              "CI 23": ["B8282C", "RM4136DC", "74154N", "HTI-507A", "LM301AN", "TDA2040"],
+              "CI 24": ["HD46508PA", "MC68HC705P6ACR", "MB8416A-15", "DT7201", "U4042187", "VAZIO"],
+              "CI 25": ["P8259A", "P8085AH-2", "IC8287A-5", "D8237AC-5", "HA17741", "SFH601-3"]
+            }
+          },
+          {
+            "nome_secao": "CI 26 a 30",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "CI 26": ["VAZIO", "MM74C154N", "VAZIO", "S8724", "K184855FF", "PAL20L8ACNS"],
+              "CI 27": ["MC3423P1", "-", "SN7HC45N", "MB8128-15", "TMS9914NL", "MC1489P"],
+              "CI 28": ["HEF4076", "LM324", "TLC2274A", "4GH206", "SFH617A", "CA3085AE"],
+              "CI 29": ["AD3172-7648L", "AD3172-7348M", "AD3172-7649F", "AD3172-7338N", "AD3172-7715L", "AD3172-422M"],
+              "CI 30": ["KF351", "UC2842N", "LF441CN", "LF347N", "UDN2981A", "DG307CJ"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Gaveteiro 21",
+        "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI 31 a 35",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "CI 31": ["SCB68172C2N28", "6ACPA", "IR8908", "SN54LS00J", "-", "HM12BF"],
+              "CI 32": ["UC2802A", "NS455-A12M", "HCF4532BE", "7612", "4116R", "TBP18S030"],
+              "CI 33": ["ADC80-12", "MC33065", "DG133", "HEF4010", "MS8027", "MC68B45P"],
+              "CI 34": ["VAZIO", "MES8732", "P8085AC", "D8085AC", "UC1901J", "SN74LS280N"],
+              "CI 35": ["IR8848", "QFP3920", "HFC4516BE", "DG307ABK", "AD7541AKN", "CD4518BE"]
+            }
+          },
+          {
+            "nome_secao": "CI 36 a 40",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "CI 36": ["DS1287", "B703CJ", "D720AC", "COM9026", "C6134", "NEC8437D2"],
+              "CI 37": ["SN7451N", "SN7417N", "DM74LS36SAN", "HD7416P", "SN74HCT374N", "SN741278N"],
+              "CI 38": ["AD7541", "VAZIO", "SN74S04N", "MC14106BCP", "944PC 7801", "HCF4518"],
+              "CI 39": ["M64102BA088", "-", "MCP508AG", "X2816BP", "AD#0734", "HCF4025T"],
+              "CI 40": ["HCF4511BE", "DM7483", "SN55182J", "LF412ACN", "HEF40097BD", "M74HCD4B1"]
+            }
+          }
+        ]
+      },
+      {
+        "gaveteiro": "Seção Pendente (Avulsos adicionais)",
+        "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+        "secoes": [
+          {
+            "nome_secao": "CI 41 PENDENTE",
+            "data_revisao": "2026-12-20",
+            "gavetas": {
+              "CI 41": ["LM3046N", "D4013 / TL084CN", "VAZIO", "AT89C55", "VAZIO", "X28C256P-25"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
