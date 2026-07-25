@@ -1,0 +1,6620 @@
+{
+  "inventario": [
+    {
+      "gaveteiro": "Gaveteiro 01",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "SMD 01 a 05",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "SMD 01",
+              "codigo": "GV01-S01-G01",
+              "componentes": [
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC2875DW",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM358M",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D7F3CGK",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC3843AD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4N33028",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 02",
+              "codigo": "GV01-S01-G02",
+              "componentes": [
+                {
+                  "componente": "BAV995MD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC2843AD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4013BT",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC3854DW",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4081BT",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 03",
+              "codigo": "GV01-S01-G03",
+              "componentes": [
+                {
+                  "componente": "BZX84C12",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BZX84C18",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4019B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TLC372",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM311",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC2875DWP",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 04",
+              "codigo": "GV01-S01-G04",
+              "componentes": [
+                {
+                  "componente": "HC4066A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4013",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HC4538",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1SMA5929BT3G",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 05",
+              "codigo": "GV01-S01-G05",
+              "componentes": [
+                {
+                  "componente": "HEF40106BT",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4046B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4073",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4011",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4070BCM",
+                  "quantidade": null
+                },
+                {
+                  "componente": "14077B",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "SMD 06 a 10",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "SMD 06",
+              "codigo": "GV01-S02-G01",
+              "componentes": [
+                {
+                  "componente": "IR2113S",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC3303D",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM224",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC3854",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HCNR200",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM324DG",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 07",
+              "codigo": "GV01-S02-G02",
+              "componentes": [
+                {
+                  "componente": "DG211BDY",
+                  "quantidade": null
+                },
+                {
+                  "componente": "L4981",
+                  "quantidade": null
+                },
+                {
+                  "componente": "C324G",
+                  "quantidade": null
+                },
+                {
+                  "componente": "257602T-5",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AC08",
+                  "quantidade": null
+                },
+                {
+                  "componente": "431AC",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 08",
+              "codigo": "GV01-S02-G03",
+              "componentes": [
+                {
+                  "componente": "OMF63",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LF459",
+                  "quantidade": null
+                },
+                {
+                  "componente": "OMF250",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LF3A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CXD1217M",
+                  "quantidade": null
+                },
+                {
+                  "componente": "26LS31",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 09",
+              "codigo": "GV01-S02-G04",
+              "componentes": [
+                {
+                  "componente": "C940",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PJ4NMK",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM78L",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ADM211",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC33274",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 10",
+              "codigo": "GV01-S02-G05",
+              "componentes": [
+                {
+                  "componente": "BZX84C15",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BZX84C27",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BZX84C22",
+                  "quantidade": null
+                },
+                {
+                  "componente": "76P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 02",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "SMD 11 a 15",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "SMD 11",
+              "codigo": "GV02-S01-G01",
+              "componentes": [
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 12",
+              "codigo": "GV02-S01-G02",
+              "componentes": [
+                {
+                  "componente": "VS",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SM2",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BZX84B12LT1G",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BSP296",
+                  "quantidade": null
+                },
+                {
+                  "componente": "T1P38",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 13",
+              "codigo": "GV02-S01-G03",
+              "componentes": [
+                {
+                  "componente": "BC807",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BZX84C5V1",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7805",
+                  "quantidade": null
+                },
+                {
+                  "componente": "N776",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 14",
+              "codigo": "GV02-S01-G04",
+              "componentes": [
+                {
+                  "componente": "BLPOD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BZG03C150",
+                  "quantidade": null
+                },
+                {
+                  "componente": "Y6P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "A6",
+                  "quantidade": null
+                },
+                {
+                  "componente": "521UIJ",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 15",
+              "codigo": "GV02-S01-G05",
+              "componentes": [
+                {
+                  "componente": "BCP52",
+                  "quantidade": null
+                },
+                {
+                  "componente": "US1MR2",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BP04",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UF16",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MUR5160T3",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "SMD 16 a 20",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "SMD 16",
+              "codigo": "GV02-S02-G01",
+              "componentes": [
+                {
+                  "componente": "G15-02R",
+                  "quantidade": null
+                },
+                {
+                  "componente": "151",
+                  "quantidade": null
+                },
+                {
+                  "componente": "121",
+                  "quantidade": null
+                },
+                {
+                  "componente": "102",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1001",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2201",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 17",
+              "codigo": "GV02-S02-G02",
+              "componentes": [
+                {
+                  "componente": "1R",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2R2",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4R7",
+                  "quantidade": null
+                },
+                {
+                  "componente": "10R",
+                  "quantidade": null
+                },
+                {
+                  "componente": "22R",
+                  "quantidade": null
+                },
+                {
+                  "componente": "33R",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 18",
+              "codigo": "GV02-S02-G03",
+              "componentes": [
+                {
+                  "componente": "2K7R",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4K3",
+                  "quantidade": null
+                },
+                {
+                  "componente": "5K6",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4K7",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BFR93AR",
+                  "quantidade": null
+                },
+                {
+                  "componente": "332",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 19",
+              "codigo": "GV02-S02-G04",
+              "componentes": [
+                {
+                  "componente": "47K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "8K2",
+                  "quantidade": null
+                },
+                {
+                  "componente": "12K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "5,6KΩ",
+                  "quantidade": null
+                },
+                {
+                  "componente": "15K - 20K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 20",
+              "codigo": "GV02-S02-G05",
+              "componentes": [
+                {
+                  "componente": "100K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "150K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "180K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 03",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "SMD 21 a 25",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "SMD 21",
+              "codigo": "GV03-S01-G01",
+              "componentes": [
+                {
+                  "componente": "273K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "287K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "470K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "750K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1M - 3M",
+                  "quantidade": null
+                },
+                {
+                  "componente": "56K",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 22",
+              "codigo": "GV03-S01-G02",
+              "componentes": [
+                {
+                  "componente": "20K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "24K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "0R",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1R5",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2K61",
+                  "quantidade": null
+                },
+                {
+                  "componente": "6K19",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 23",
+              "codigo": "GV03-S01-G03",
+              "componentes": [
+                {
+                  "componente": "8R2",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1K47",
+                  "quantidade": null
+                },
+                {
+                  "componente": "10K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "25K5",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1K2",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 24",
+              "codigo": "GV03-S01-G04",
+              "componentes": [
+                {
+                  "componente": "470pF,g",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD 25",
+              "codigo": "GV03-S01-G05",
+              "componentes": [
+                {
+                  "componente": "100nF",
+                  "quantidade": null
+                },
+                {
+                  "componente": "84nF",
+                  "quantidade": null
+                },
+                {
+                  "componente": "220K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "3nF",
+                  "quantidade": null
+                },
+                {
+                  "componente": "FILTRO CAP. SUB.",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "SMD 26 a 30 (Avulsos)",
+          "data_revisao": "Parcialmente Revisado (2026-12-20)",
+          "gavetas": [
+            {
+              "nome_gaveta": "SMD 26",
+              "codigo": "GV03-S02-G01",
+              "componentes": [
+                {
+                  "componente": "5DP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "Y4",
+                  "quantidade": null
+                },
+                {
+                  "componente": "Y6",
+                  "quantidade": null
+                },
+                {
+                  "componente": "A7580",
+                  "quantidade": null
+                },
+                {
+                  "componente": "Y10",
+                  "quantidade": null
+                },
+                {
+                  "componente": "A7",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "SMD + (avulsos)",
+              "codigo": "GV03-S02-G02",
+              "componentes": [
+                {
+                  "componente": "Mapeamento Geral pendente de discriminação",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI's Avulsos",
+              "codigo": "GV03-S02-G03",
+              "componentes": [
+                {
+                  "componente": "Mapeamento Geral pendente de discriminação",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 04",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "ZENER 01 a 05",
+          "data_revisao": "2026-12-27",
+          "gavetas": [
+            {
+              "nome_gaveta": "ZENER 01",
+              "codigo": "GV04-S01-G01",
+              "componentes": [
+                {
+                  "componente": "1N4725",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2V7",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N4729",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N5335",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N821",
+                  "quantidade": null
+                },
+                {
+                  "componente": "6V2",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "ZENER 02",
+              "codigo": "GV04-S01-G02",
+              "componentes": [
+                {
+                  "componente": "5V1",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IN4733",
+                  "quantidade": null
+                },
+                {
+                  "componente": "5V6",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4735AP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N754",
+                  "quantidade": null
+                },
+                {
+                  "componente": "6V8",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "ZENER 03",
+              "codigo": "GV04-S01-G03",
+              "componentes": [
+                {
+                  "componente": "IN4737",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4V7",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N755",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7V5",
+                  "quantidade": null
+                },
+                {
+                  "componente": "12V",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4737AP",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "ZENER 04",
+              "codigo": "GV04-S01-G04",
+              "componentes": [
+                {
+                  "componente": "1N4738",
+                  "quantidade": null
+                },
+                {
+                  "componente": "8V2",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N4739",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N4740",
+                  "quantidade": null
+                },
+                {
+                  "componente": "C12ST",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IN4742",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "ZENER 05",
+              "codigo": "GV04-S01-G05",
+              "componentes": [
+                {
+                  "componente": "1N962",
+                  "quantidade": null
+                },
+                {
+                  "componente": "85C12",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "Z128",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "ZENER 06 a 10",
+          "data_revisao": "2026-04-27",
+          "gavetas": [
+            {
+              "nome_gaveta": "ZENER 06",
+              "codigo": "GV04-S02-G01",
+              "componentes": [
+                {
+                  "componente": "87C13",
+                  "quantidade": null
+                },
+                {
+                  "componente": "B13PH",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N4744A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N5352B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N981B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "C13PH",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "ZENER 07",
+              "codigo": "GV04-S02-G02",
+              "componentes": [
+                {
+                  "componente": "1N4752",
+                  "quantidade": null
+                },
+                {
+                  "componente": "9C12",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N4753",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N6380",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N535",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "ZENER 08",
+              "codigo": "GV04-S02-G03",
+              "componentes": [
+                {
+                  "componente": "1N3044",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N5377B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PH4148",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N3005B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N5378",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N5381",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "ZENER 09",
+              "codigo": "GV04-S02-G04",
+              "componentes": [
+                {
+                  "componente": "1N5885",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N5383",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BZV85C",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BAV21",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N914A",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "ZENER 10",
+              "codigo": "GV04-S02-G05",
+              "componentes": [
+                {
+                  "componente": "1N966A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BAT43",
+                  "quantidade": null
+                },
+                {
+                  "componente": "C56PH",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1N5264",
+                  "quantidade": null
+                },
+                {
+                  "componente": "9C15",
+                  "quantidade": null
+                },
+                {
+                  "componente": "B13PH",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 05",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI DE MEMÓRIA 01 a 05",
+          "data_revisao": "2026-04-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI DE MEMÓRIA 01",
+              "codigo": "GV05-S01-G01",
+              "componentes": [
+                {
+                  "componente": "27C512",
+                  "quantidade": null
+                },
+                {
+                  "componente": "27C512",
+                  "quantidade": null
+                },
+                {
+                  "componente": "27C32",
+                  "quantidade": null
+                },
+                {
+                  "componente": "27C32",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HM6116",
+                  "quantidade": null
+                },
+                {
+                  "componente": "27C08",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI DE MEMÓRIA 02",
+              "codigo": "GV05-S01-G02",
+              "componentes": [
+                {
+                  "componente": "27C64",
+                  "quantidade": null
+                },
+                {
+                  "componente": "27C64",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC68HC705P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HY6264",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D8257C",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI DE MEMÓRIA 03",
+              "codigo": "GV05-S01-G03",
+              "componentes": [
+                {
+                  "componente": "MPS7201",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ICM7224IPL",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D5C031-40",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D27512",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D8748-8",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI DE MEMÓRIA 04",
+              "codigo": "GV05-S01-G04",
+              "componentes": [
+                {
+                  "componente": "D2732A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TMS2732AJL-45",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AM2708",
+                  "quantidade": null
+                },
+                {
+                  "componente": "48401080BG",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TM527C256-12",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TM527C256-15",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI DE MEMÓRIA 05",
+              "codigo": "GV05-S01-G05",
+              "componentes": [
+                {
+                  "componente": "PIC16F628",
+                  "quantidade": null
+                },
+                {
+                  "componente": "N80C188-16",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AT89C55",
+                  "quantidade": null
+                },
+                {
+                  "componente": "87C51",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AT85C55WD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC6821P",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI DE MEMÓRIA 06 a 10",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI DE MEMÓRIA 06",
+              "codigo": "GV05-S02-G01",
+              "componentes": [
+                {
+                  "componente": "X28C256D-25",
+                  "quantidade": null
+                },
+                {
+                  "componente": "Z8440AB1",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D5Z121-90",
+                  "quantidade": null
+                },
+                {
+                  "componente": "U1009SS0",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D7220AD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UM8031",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI DE MEMÓRIA 07",
+              "codigo": "GV05-S02-G02",
+              "componentes": [
+                {
+                  "componente": "LB9030",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HN4827128G-25",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ICM2732A-25",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AT89C4051",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D2716D",
+                  "quantidade": null
+                },
+                {
+                  "componente": "M2716M",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI DE MEMÓRIA 08",
+              "codigo": "GV05-S02-G03",
+              "componentes": [
+                {
+                  "componente": "P8251A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "M5L8283P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D27128D",
+                  "quantidade": null
+                },
+                {
+                  "componente": "8431GAP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ICL7106",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D8087-2",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI DE MEMÓRIA 09",
+              "codigo": "GV05-S02-G04",
+              "componentes": [
+                {
+                  "componente": "D5C121-90",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PAL20R4ANC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PIC16F84A-047/P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "A6812EEPT",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TMM2064P-10",
+                  "quantidade": null
+                },
+                {
+                  "componente": "X2004",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI DE MEMÓRIA 10",
+              "codigo": "GV05-S02-G05",
+              "componentes": [
+                {
+                  "componente": "AT28C16",
+                  "quantidade": null
+                },
+                {
+                  "componente": "N8X60N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "A29040B-70F",
+                  "quantidade": null
+                },
+                {
+                  "componente": "Z0853006PSC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D8741A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "F1096170",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 06",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "TRANSISTORES 01 a 05",
+          "data_revisao": "2026-12-28",
+          "gavetas": [
+            {
+              "nome_gaveta": "TRANSISTORES 01",
+              "codigo": "GV06-S01-G01",
+              "componentes": [
+                {
+                  "componente": "A1015",
+                  "quantidade": 10
+                },
+                {
+                  "componente": "A1837",
+                  "quantidade": 4
+                },
+                {
+                  "componente": "A92",
+                  "quantidade": 18
+                },
+                {
+                  "componente": "KSP92-003",
+                  "quantidade": 20
+                },
+                {
+                  "componente": "AD161",
+                  "quantidade": 1
+                },
+                {
+                  "componente": "BC140-16",
+                  "quantidade": 18
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 02",
+              "codigo": "GV06-S01-G02",
+              "componentes": [
+                {
+                  "componente": "BC141",
+                  "quantidade": 29
+                },
+                {
+                  "componente": "BC160-16",
+                  "quantidade": 9
+                },
+                {
+                  "componente": "BC161",
+                  "quantidade": 8
+                },
+                {
+                  "componente": "BC237B(A)",
+                  "quantidade": 45
+                },
+                {
+                  "componente": "BC327",
+                  "quantidade": 3
+                },
+                {
+                  "componente": "BC337",
+                  "quantidade": 3
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 03",
+              "codigo": "GV06-S01-G03",
+              "componentes": [
+                {
+                  "componente": "BC516",
+                  "quantidade": 41
+                },
+                {
+                  "componente": "BC517",
+                  "quantidade": 23
+                },
+                {
+                  "componente": "BC546",
+                  "quantidade": 34
+                },
+                {
+                  "componente": "BC547B",
+                  "quantidade": 25
+                },
+                {
+                  "componente": "BC548",
+                  "quantidade": 6
+                },
+                {
+                  "componente": "BD137",
+                  "quantidade": 9
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 04",
+              "codigo": "GV06-S01-G04",
+              "componentes": [
+                {
+                  "componente": "BC559",
+                  "quantidade": 2
+                },
+                {
+                  "componente": "2N3585",
+                  "quantidade": 5
+                },
+                {
+                  "componente": "BC639",
+                  "quantidade": 42
+                },
+                {
+                  "componente": "B8C880",
+                  "quantidade": 6
+                },
+                {
+                  "componente": "BC635",
+                  "quantidade": 7
+                },
+                {
+                  "componente": "BC558",
+                  "quantidade": 28
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 05",
+              "codigo": "GV06-S01-G05",
+              "componentes": [
+                {
+                  "componente": "BD139-16",
+                  "quantidade": 14
+                },
+                {
+                  "componente": "BD140-16",
+                  "quantidade": 8
+                },
+                {
+                  "componente": "BD433",
+                  "quantidade": 3
+                },
+                {
+                  "componente": "BDT63A",
+                  "quantidade": 4
+                },
+                {
+                  "componente": "BDY93F7510",
+                  "quantidade": 6
+                },
+                {
+                  "componente": "BF256B",
+                  "quantidade": 45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "TRANSISTORES 06 a 10",
+          "data_revisao": "2026-12-28",
+          "gavetas": [
+            {
+              "nome_gaveta": "TRANSISTORES 06",
+              "codigo": "GV06-S02-G01",
+              "componentes": [
+                {
+                  "componente": "BF422",
+                  "quantidade": 18
+                },
+                {
+                  "componente": "BF423",
+                  "quantidade": 22
+                },
+                {
+                  "componente": "BF458",
+                  "quantidade": 1
+                },
+                {
+                  "componente": "BFX84",
+                  "quantidade": 1
+                },
+                {
+                  "componente": "BFX85",
+                  "quantidade": 12
+                },
+                {
+                  "componente": "BFX88",
+                  "quantidade": 5
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 07",
+              "codigo": "GV06-S02-G02",
+              "componentes": [
+                {
+                  "componente": "BFY51",
+                  "quantidade": 14
+                },
+                {
+                  "componente": "B048 MJ 4B",
+                  "quantidade": 7
+                },
+                {
+                  "componente": "BSX20",
+                  "quantidade": 6
+                },
+                {
+                  "componente": "BT137",
+                  "quantidade": 0
+                },
+                {
+                  "componente": "BT151",
+                  "quantidade": 7
+                },
+                {
+                  "componente": "BF305",
+                  "quantidade": 7
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 08",
+              "codigo": "GV06-S02-G03",
+              "componentes": [
+                {
+                  "componente": "BTA26",
+                  "quantidade": 0
+                },
+                {
+                  "componente": "BU208",
+                  "quantidade": 2
+                },
+                {
+                  "componente": "BU2506",
+                  "quantidade": 0
+                },
+                {
+                  "componente": "BU2508DX",
+                  "quantidade": 5
+                },
+                {
+                  "componente": "BU2525",
+                  "quantidade": 0
+                },
+                {
+                  "componente": "BU2522",
+                  "quantidade": 1
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 09",
+              "codigo": "GV06-S02-G04",
+              "componentes": [
+                {
+                  "componente": "BUK438",
+                  "quantidade": 4
+                },
+                {
+                  "componente": "BU406",
+                  "quantidade": 5
+                },
+                {
+                  "componente": "BUW12A",
+                  "quantidade": 0
+                },
+                {
+                  "componente": "BUX41",
+                  "quantidade": 1
+                },
+                {
+                  "componente": "BUX42",
+                  "quantidade": 2
+                },
+                {
+                  "componente": "2N2219A",
+                  "quantidade": 5
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 10",
+              "codigo": "GV06-S02-G05",
+              "componentes": [
+                {
+                  "componente": "BUT33 / BUV18",
+                  "quantidade": 1
+                },
+                {
+                  "componente": "BUX17A",
+                  "quantidade": 15
+                },
+                {
+                  "componente": "BUX43",
+                  "quantidade": 2
+                },
+                {
+                  "componente": "BUX46",
+                  "quantidade": 9
+                },
+                {
+                  "componente": "BUZ54",
+                  "quantidade": 4
+                },
+                {
+                  "componente": "CTBC640",
+                  "quantidade": 26
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 07",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "TRANSISTORES 11 a 15",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "TRANSISTORES 11",
+              "codigo": "GV07-S01-G01",
+              "componentes": [
+                {
+                  "componente": "C307",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CEPFZ4496LA",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MPB6045PT",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CV7404",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BD115",
+                  "quantidade": null
+                },
+                {
+                  "componente": "EM3110",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 12",
+              "codigo": "GV07-S01-G02",
+              "componentes": [
+                {
+                  "componente": "BC640",
+                  "quantidade": null
+                },
+                {
+                  "componente": "G4PC50UD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IRF19634G",
+                  "quantidade": null
+                },
+                {
+                  "componente": "F422",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IRFP2907",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IRFP460",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 13",
+              "codigo": "GV07-S01-G03",
+              "componentes": [
+                {
+                  "componente": "4NA80",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MPSA42",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MJL21194",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IRFP450",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MJL21193",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MJ10023",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 14",
+              "codigo": "GV07-S01-G04",
+              "componentes": [
+                {
+                  "componente": "TIP122",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP126",
+                  "quantidade": null
+                },
+                {
+                  "componente": "NTE232",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP121",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP136",
+                  "quantidade": null
+                },
+                {
+                  "componente": "KSP92",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 15",
+              "codigo": "GV07-S01-G05",
+              "componentes": [
+                {
+                  "componente": "CV7431",
+                  "quantidade": null
+                },
+                {
+                  "componente": "K30A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BC182",
+                  "quantidade": null
+                },
+                {
+                  "componente": "G4PC50S",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D45H8G",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N2222",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "TRANSISTORES 16 a 20",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "TRANSISTORES 16",
+              "codigo": "GV07-S02-G01",
+              "componentes": [
+                {
+                  "componente": "2N1671",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N1507",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N1711",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "L51J004",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CT2N3905",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 17",
+              "codigo": "GV07-S02-G02",
+              "componentes": [
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N2904",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MPS2907",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N2818",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N2919",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 18",
+              "codigo": "GV07-S02-G03",
+              "componentes": [
+                {
+                  "componente": "2N3054",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3441",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3442",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3440",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N2369",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 19",
+              "codigo": "GV07-S02-G04",
+              "componentes": [
+                {
+                  "componente": "2N3773",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "FT2955",
+                  "quantidade": null
+                },
+                {
+                  "componente": "FS7KM16A",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 20",
+              "codigo": "GV07-S02-G05",
+              "componentes": [
+                {
+                  "componente": "2N3903",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP3055",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N4416",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N4403",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N1188",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UA7812G",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 08",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "TRANSISTORES 21 a 25",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "TRANSISTORES 21",
+              "codigo": "GV08-S01-G01",
+              "componentes": [
+                {
+                  "componente": "2N6248",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N660",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N6675",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N5416",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N5415",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N5784",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 22",
+              "codigo": "GV08-S01-G02",
+              "componentes": [
+                {
+                  "componente": "2N5401",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N5189",
+                  "quantidade": null
+                },
+                {
+                  "componente": "C547B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BC10640",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM334",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N6668",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 23",
+              "codigo": "GV08-S01-G03",
+              "componentes": [
+                {
+                  "componente": "2N2905",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3553",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3741",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3879",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3904",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP36",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 24",
+              "codigo": "GV08-S01-G04",
+              "componentes": [
+                {
+                  "componente": "2N6283",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N2646",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3906",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3819",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N6028",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 25",
+              "codigo": "GV08-S01-G05",
+              "componentes": [
+                {
+                  "componente": "2N3772",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3055",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3208",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "TRANSISTORES 26 a 30",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "TRANSISTORES 26",
+              "codigo": "GV08-S02-G01",
+              "componentes": [
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3107",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MCR22-B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BC636",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BD135",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 27",
+              "codigo": "GV08-S02-G02",
+              "componentes": [
+                {
+                  "componente": "VP0300F",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VN66AFD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MPSL51",
+                  "quantidade": null
+                },
+                {
+                  "componente": "18200C4",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP41",
+                  "quantidade": null
+                },
+                {
+                  "componente": "17824T",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 28",
+              "codigo": "GV08-S02-G03",
+              "componentes": [
+                {
+                  "componente": "2N5672",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD3172",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D313",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BD140",
+                  "quantidade": null
+                },
+                {
+                  "componente": "JE340",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MJ15003",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 29",
+              "codigo": "GV08-S02-G04",
+              "componentes": [
+                {
+                  "componente": "C4793",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MJ802",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MJ10005",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MJ11032",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MJ11015",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MJ3001",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 30",
+              "codigo": "GV08-S02-G05",
+              "componentes": [
+                {
+                  "componente": "2N157A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7282W",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N6339",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IRF3710",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SB1640CT",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BC238",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 09",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "TRANSISTORES 31 a 35",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "TRANSISTORES 31",
+              "codigo": "GV09-S01-G01",
+              "componentes": [
+                {
+                  "componente": "2N5322",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N1893",
+                  "quantidade": null
+                },
+                {
+                  "componente": "STR4A60S",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N2324",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N2218",
+                  "quantidade": null
+                },
+                {
+                  "componente": "FPN2907A",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 32",
+              "codigo": "GV09-S01-G02",
+              "componentes": [
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "Q6015L",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3771",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BU2520",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP147",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IRFP22N50A",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 33",
+              "codigo": "GV09-S01-G03",
+              "componentes": [
+                {
+                  "componente": "K2699",
+                  "quantidade": null
+                },
+                {
+                  "componente": "K3799",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BYV34",
+                  "quantidade": null
+                },
+                {
+                  "componente": "U1560CQ425",
+                  "quantidade": null
+                },
+                {
+                  "componente": "U860CQ148",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BUX348A",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 34",
+              "codigo": "GV09-S01-G04",
+              "componentes": [
+                {
+                  "componente": "TIP110",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP112",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP115",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP117",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP127",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ZTX690B",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 35",
+              "codigo": "GV09-S01-G05",
+              "componentes": [
+                {
+                  "componente": "TIP152",
+                  "quantidade": null
+                },
+                {
+                  "componente": "J4215-O",
+                  "quantidade": null
+                },
+                {
+                  "componente": "J4315-O",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MBR6045PT",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MGY30N60",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP 145",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "TRANSISTORES 36 a 40",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "TRANSISTORES 36",
+              "codigo": "GV09-S02-G01",
+              "componentes": [
+                {
+                  "componente": "K58245A1",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BD678",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3711",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3702",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N726",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 37",
+              "codigo": "GV09-S02-G02",
+              "componentes": [
+                {
+                  "componente": "TIP 107",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP 31",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP 32",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP 34",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP 42",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP 50",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 38",
+              "codigo": "GV09-S02-G03",
+              "componentes": [
+                {
+                  "componente": "TIP 35",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP 36",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP 140",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP 41",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIP 126",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MFEI20",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 39",
+              "codigo": "GV09-S02-G04",
+              "componentes": [
+                {
+                  "componente": "TOP 227Y",
+                  "quantidade": null
+                },
+                {
+                  "componente": "2N3439",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BD677",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MPS6514",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SBL2040",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BTA12600B",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "TRANSISTORES 40",
+              "codigo": "GV09-S02-G05",
+              "componentes": [
+                {
+                  "componente": "TIC206D",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BT139",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIC 126N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIC 126M",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIC 106",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DIAC DB10 226996",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 10",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI LINEAR 01 a 05",
+          "data_revisao": "2027-01-02",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 01",
+              "codigo": "GV10-S01-G01",
+              "componentes": [
+                {
+                  "componente": "LM2904",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LT1019",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM725",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC1408",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM2907",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 02",
+              "codigo": "GV10-S01-G02",
+              "componentes": [
+                {
+                  "componente": "KA3725A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM355",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM311",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM239",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MAX690EPA",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM308",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 03",
+              "codigo": "GV10-S01-G03",
+              "componentes": [
+                {
+                  "componente": "LM392/393",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UA741",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM1458/4558",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM723",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM747",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HCF4001",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 04",
+              "codigo": "GV10-S01-G04",
+              "componentes": [
+                {
+                  "componente": "LM348",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM339N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM346N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM358N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SP721",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 05",
+              "codigo": "GV10-S01-G05",
+              "componentes": [
+                {
+                  "componente": "HD37350",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF40098BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HM6264LP-12",
+                  "quantidade": null
+                },
+                {
+                  "componente": "F40085N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IR2151",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D27512",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI LINEAR 06 a 10",
+          "data_revisao": "2027-02-14",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 06",
+              "codigo": "GV10-S02-G01",
+              "componentes": [
+                {
+                  "componente": "TA7504M",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TC4420",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TC4428",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TDA4718A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TL494",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TC9400",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 07",
+              "codigo": "GV10-S02-G02",
+              "componentes": [
+                {
+                  "componente": "TCA780",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC2875",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC2854",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC3854",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC3901",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC3845",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 08",
+              "codigo": "GV10-S02-G03",
+              "componentes": [
+                {
+                  "componente": "MC33151P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC33153P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC33174P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC34002P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "NE556N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PAL12H6CN",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 09",
+              "codigo": "GV10-S02-G04",
+              "componentes": [
+                {
+                  "componente": "QTC6140A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SG1525",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SG3525",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN7517BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN75182N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SG3524",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 10",
+              "codigo": "GV10-S02-G05",
+              "componentes": [
+                {
+                  "componente": "ML8205",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC3303P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC3403N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HD14015BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14024BCP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14053BCP",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 11",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI LINEAR 11 a 15",
+          "data_revisao": "2026-12-29",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 11",
+              "codigo": "GV11-S01-G01",
+              "componentes": [
+                {
+                  "componente": "MC14067BCP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14078",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14174BCP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14584B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14569B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14541BCP",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 12",
+              "codigo": "GV11-S01-G02",
+              "componentes": [
+                {
+                  "componente": "316B470",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ULN2001A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ULN2804A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VQ1000J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC3875N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TD62083AP",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 13",
+              "codigo": "GV11-S01-G03",
+              "componentes": [
+                {
+                  "componente": "34004B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AM26LS31",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DS26LS32CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC145026P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14060BAL",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PMI0P0I",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 14",
+              "codigo": "GV11-S01-G04",
+              "componentes": [
+                {
+                  "componente": "4066",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4068",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4069",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4070",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4073",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4081",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 15",
+              "codigo": "GV11-S01-G05",
+              "componentes": [
+                {
+                  "componente": "4082",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4093",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4098",
+                  "quantidade": null
+                },
+                {
+                  "componente": "40106",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4503",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4538",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI LINEAR 16 a 20",
+          "data_revisao": "2026-12-29",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 16",
+              "codigo": "GV11-S02-G01",
+              "componentes": [
+                {
+                  "componente": "4012",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4013",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4016",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4017/4018",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4020",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4023",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 17",
+              "codigo": "GV11-S02-G02",
+              "componentes": [
+                {
+                  "componente": "4024",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4028",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4029",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4030",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4035",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4040",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 18",
+              "codigo": "GV11-S02-G03",
+              "componentes": [
+                {
+                  "componente": "4046",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4047",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4049",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4050",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4051",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4060",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 19",
+              "codigo": "GV11-S02-G04",
+              "componentes": [
+                {
+                  "componente": "4000",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4001",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4010",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4011",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 20",
+              "codigo": "GV11-S02-G05",
+              "componentes": [
+                {
+                  "componente": "74LS06",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS07",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS08",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS09",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS10",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 12",
+      "localizacao_detalhada": "Primeiro Armário segunda coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI LINEAR 21 a 25",
+          "data_revisao": "2026-12-29",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 21",
+              "codigo": "GV12-S01-G01",
+              "componentes": [
+                {
+                  "componente": "74LS73",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS74",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS75",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS86",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS85",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS89",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 22",
+              "codigo": "GV12-S01-G02",
+              "componentes": [
+                {
+                  "componente": "74LS11",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS14",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS20",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS28",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS13",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS30",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 23",
+              "codigo": "GV12-S01-G03",
+              "componentes": [
+                {
+                  "componente": "74LS00",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS01",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS02",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS03",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS04",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS05",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 24",
+              "codigo": "GV12-S01-G04",
+              "componentes": [
+                {
+                  "componente": "74LS122",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS123",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS125",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS133",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS138",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS139",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 25",
+              "codigo": "GV12-S01-G05",
+              "componentes": [
+                {
+                  "componente": "74LS32",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS33",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS37",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS38",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74HC4075",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS42",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI LINEAR 26 a 30",
+          "data_revisao": "2027-02-14",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 26",
+              "codigo": "GV12-S02-G01",
+              "componentes": [
+                {
+                  "componente": "74LS257",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS259",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS266",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS273",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74279",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS290",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 27",
+              "codigo": "GV12-S02-G02",
+              "componentes": [
+                {
+                  "componente": "74LS192",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS240",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS244",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS245",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS253",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 28",
+              "codigo": "GV12-S02-G03",
+              "componentes": [
+                {
+                  "componente": "74LS163",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS164",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS166",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS174",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS175",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 29",
+              "codigo": "GV12-S02-G04",
+              "componentes": [
+                {
+                  "componente": "74LS148",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS156",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS157",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS159",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS161AN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 30",
+              "codigo": "GV12-S02-G05",
+              "componentes": [
+                {
+                  "componente": "TMM2116P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "QP2114AL",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MSM2114L",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4027BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4028BCN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74HC423AN",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 13",
+      "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI LINEAR 31 a 35",
+          "data_revisao": "2026-04-24",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 31",
+              "codigo": "GV13-S01-G01",
+              "componentes": [
+                {
+                  "componente": "IR3403",
+                  "quantidade": null
+                },
+                {
+                  "componente": "NE555N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DS8923AN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4071BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD571KD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "733W001",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 32",
+              "codigo": "GV13-S01-G02",
+              "componentes": [
+                {
+                  "componente": "74HC423E",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS73AN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS623N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74ALS645A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74ALS646",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 33",
+              "codigo": "GV13-S01-G03",
+              "componentes": [
+                {
+                  "componente": "74LS197",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS195",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CA3290E",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD3172",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM3900N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74HC521N",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 34",
+              "codigo": "GV13-S01-G04",
+              "componentes": [
+                {
+                  "componente": "LM311N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DAC312",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TMM314APL",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM318DE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM324N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM326N",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 35",
+              "codigo": "GV13-S01-G05",
+              "componentes": [
+                {
+                  "componente": "LM331N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "P0136SD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74HC14H",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74HC161N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74HC191E",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LF355",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI LINEAR 36 a 40",
+          "data_revisao": "2026-04-24",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 36",
+              "codigo": "GV13-S02-G01",
+              "componentes": [
+                {
+                  "componente": "MCY74002",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM3914N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM1524DJ",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC1489AP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IR2111",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74HC373",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 37",
+              "codigo": "GV13-S02-G02",
+              "componentes": [
+                {
+                  "componente": "HCF4045BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4042BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4043BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14411P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HCF4020BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74HC02P",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 38",
+              "codigo": "GV13-S02-G03",
+              "componentes": [
+                {
+                  "componente": "MC1488N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS373P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS374N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS379N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS393N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS377P",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 39",
+              "codigo": "GV13-S02-G04",
+              "componentes": [
+                {
+                  "componente": "CD4518BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM1830N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "766S14FF",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4099BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4002BCM",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HCF4002BE",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 40",
+              "codigo": "GV13-S02-G05",
+              "componentes": [
+                {
+                  "componente": "2EQ8320",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM10CLN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM11CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SE-26 10K 6K",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VFC32KP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM3886T",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 14",
+      "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI LINEAR 41 a 45",
+          "data_revisao": "2026-04-24",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 41",
+              "codigo": "GV14-S01-G01",
+              "componentes": [
+                {
+                  "componente": "IP7Y3G",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ZZ8410AB1",
+                  "quantidade": null
+                },
+                {
+                  "componente": "M2716F1",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TL082CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TL084CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7AZN86W",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 42",
+              "codigo": "GV14-S01-G02",
+              "componentes": [
+                {
+                  "componente": "AM91L14EPC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DM9368N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM13600N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM13700N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14007UB",
+                  "quantidade": null
+                },
+                {
+                  "componente": "22AXF7K",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 43",
+              "codigo": "GV14-S01-G03",
+              "componentes": [
+                {
+                  "componente": "LM709CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MSN2128",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TEA2261",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM13700N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IR2403",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AM2503",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 44",
+              "codigo": "GV14-S01-G04",
+              "componentes": [
+                {
+                  "componente": "TL7705",
+                  "quantidade": null
+                },
+                {
+                  "componente": "C7002C",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM748CH",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM759CH",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD40107",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ADC0820B",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 45",
+              "codigo": "GV14-S01-G05",
+              "componentes": [
+                {
+                  "componente": "SG3525AN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HD3633",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TDA3653B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "M58206",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM399H",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14082",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI LINEAR 46 a 50",
+          "data_revisao": "2026-04-25",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 46",
+              "codigo": "GV14-S02-G01",
+              "componentes": [
+                {
+                  "componente": "HCF4094BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ADM211EAR",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MBL8283",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM2904P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BCY59X",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ICM7218",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 47",
+              "codigo": "GV14-S02-G02",
+              "componentes": [
+                {
+                  "componente": "MC1709L",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ULN2064",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TC4556BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HCF4541BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14503",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SD4519BE",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 48",
+              "codigo": "GV14-S02-G03",
+              "componentes": [
+                {
+                  "componente": "D8253C",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D80C187",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 49",
+              "codigo": "GV14-S02-G04",
+              "componentes": [
+                {
+                  "componente": "P8253-5",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 50",
+              "codigo": "GV14-S02-G05",
+              "componentes": [
+                {
+                  "componente": "LM117H",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM137",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4N33",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM320",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM385",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TI347",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 15",
+      "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI LINEAR 51 a 55",
+          "data_revisao": "2026-04-25",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI LINEAR 51",
+              "codigo": "GV15-S01-G01",
+              "componentes": [
+                {
+                  "componente": "M58212P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS90N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ICM7556MJD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D8035LC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HCF4085BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC3825N",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI LINEAR 52",
+              "codigo": "GV15-S01-G02",
+              "componentes": [
+                {
+                  "componente": "CA324E",
+                  "quantidade": null
+                },
+                {
+                  "componente": "9012",
+                  "quantidade": null
+                },
+                {
+                  "componente": "9642",
+                  "quantidade": null
+                },
+                {
+                  "componente": "9215",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4556BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74C941N",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 53",
+              "codigo": "GV15-S01-G03",
+              "componentes": [
+                {
+                  "componente": "LF355AN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DS3695N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HM624ALP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D1801C",
+                  "quantidade": null
+                },
+                {
+                  "componente": "54ALS374",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SDU8253",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 54",
+              "codigo": "GV15-S01-G04",
+              "componentes": [
+                {
+                  "componente": "P8237A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "I1-506A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM305H",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PAL16L8ACN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TMS4016",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PAL20L10ACNS",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 55",
+              "codigo": "GV15-S01-G05",
+              "componentes": [
+                {
+                  "componente": "C8087",
+                  "quantidade": null
+                },
+                {
+                  "componente": "COMC65",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HPN136",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AM7201",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HM6116P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HM6116LP",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI 56 a 60",
+          "data_revisao": "2026-04-25",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 56",
+              "codigo": "GV15-S02-G01",
+              "componentes": [
+                {
+                  "componente": "MC3523U",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4528",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TC4584BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14071B",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PAL16L8-15CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MM80C98N",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 57",
+              "codigo": "GV15-S02-G02",
+              "componentes": [
+                {
+                  "componente": "949PC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D71055C",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D8087",
+                  "quantidade": null
+                },
+                {
+                  "componente": "X2816BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "OP471",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 58",
+              "codigo": "GV15-S02-G03",
+              "componentes": [
+                {
+                  "componente": "AM2911",
+                  "quantidade": null
+                },
+                {
+                  "componente": "9370DC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CP8544",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CNY75GA",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74HC11N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CY7C187",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 59",
+              "codigo": "GV15-S02-G04",
+              "componentes": [
+                {
+                  "componente": "4516BPC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC145027",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM7111",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IR8908",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD40175BCN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "OP07CN",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 60",
+              "codigo": "GV15-S02-G05",
+              "componentes": [
+                {
+                  "componente": "CD4516",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC1416",
+                  "quantidade": null
+                },
+                {
+                  "componente": "FSA2501M",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ITT945-5D",
+                  "quantidade": null
+                },
+                {
+                  "componente": "H111DI",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 16",
+      "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI 61 a 65",
+          "data_revisao": "2026-04-25",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 61",
+              "codigo": "GV16-S01-G01",
+              "componentes": [
+                {
+                  "componente": "74LS125AN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14106BCP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD7541AKN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HM6147HP",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 62",
+              "codigo": "GV16-S01-G02",
+              "componentes": [
+                {
+                  "componente": "M58678P M58677",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AM9511A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "M58680P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IH6216CJI",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AM543",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 63",
+              "codigo": "GV16-S01-G03",
+              "componentes": [
+                {
+                  "componente": "IL300",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LA120P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "9644H",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4013BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HM6167LP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7493N",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 64",
+              "codigo": "GV16-S01-G04",
+              "componentes": [
+                {
+                  "componente": "P8237",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PAL16R4ACJ",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PAL20L10AC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "P8259A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "KM62256ALP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "WD935A",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 65",
+              "codigo": "GV16-S01-G05",
+              "componentes": [
+                {
+                  "componente": "LH2311D",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM1524J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DG506ABK",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IR8908",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ICL8038CC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "I1-507A",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI 66 a 70",
+          "data_revisao": "2026-04-25",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 66",
+              "codigo": "GV16-S02-G01",
+              "componentes": [
+                {
+                  "componente": "D8085AC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14106",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TMS1273NL",
+                  "quantidade": null
+                },
+                {
+                  "componente": "P8255A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN74107N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC6850P",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 67",
+              "codigo": "GV16-S02-G02",
+              "componentes": [
+                {
+                  "componente": "4N25",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD536A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CNY74",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CNY17",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIL111",
+                  "quantidade": null
+                },
+                {
+                  "componente": "H11B255",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 68",
+              "codigo": "GV16-S02-G03",
+              "componentes": [
+                {
+                  "componente": "ADG528AKN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4N24A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "V951H68",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CA82858",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TI523",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC75174BP",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 69",
+              "codigo": "GV16-S02-G04",
+              "componentes": [
+                {
+                  "componente": "DM81LS95J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN75175N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DG133AP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HD1477BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "F944PC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 70",
+              "codigo": "GV16-S02-G05",
+              "componentes": [
+                {
+                  "componente": "AD7524JN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM1203N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MAX690",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ZTX751",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IH5009",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HA5320",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 17",
+      "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI 71 a 75",
+          "data_revisao": "2026-04-25",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 71",
+              "codigo": "GV17-S01-G01",
+              "componentes": [
+                {
+                  "componente": "SAB8205P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TDA7000",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D1-6409",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MPC508AG",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4116R",
+                  "quantidade": null
+                },
+                {
+                  "componente": "M54519P",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 72",
+              "codigo": "GV17-S01-G02",
+              "componentes": [
+                {
+                  "componente": "UC1901J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC671LD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TDA2040",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CA3130T",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 73",
+              "codigo": "GV17-S01-G03",
+              "componentes": [
+                {
+                  "componente": "DG200AC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "6N136",
+                  "quantidade": null
+                },
+                {
+                  "componente": "P8085AH",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 74",
+              "codigo": "GV17-S01-G04",
+              "componentes": [
+                {
+                  "componente": "AD632A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS283P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DM74367N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS367AN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN54HCT244",
+                  "quantidade": null
+                },
+                {
+                  "componente": "INA101HP",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 75",
+              "codigo": "GV17-S01-G05",
+              "componentes": [
+                {
+                  "componente": "LM140",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM317",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM334",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM336",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM340",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI 76 e REGULADORES 01 a 04",
+          "data_revisao": "2026-04-25",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 76",
+              "codigo": "GV17-S02-G01",
+              "componentes": [
+                {
+                  "componente": "TL432",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LT1071",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC723",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM2575T",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM337T",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TDA2050",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "REGULADORES 01",
+              "codigo": "GV17-S02-G02",
+              "componentes": [
+                {
+                  "componente": "7805",
+                  "quantidade": null
+                },
+                {
+                  "componente": "78L05",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7806",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7808",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7809",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7812",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "REGULADORES 02",
+              "codigo": "GV17-S02-G03",
+              "componentes": [
+                {
+                  "componente": "78L12",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7815",
+                  "quantidade": null
+                },
+                {
+                  "componente": "78L15",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7818",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7824",
+                  "quantidade": null
+                },
+                {
+                  "componente": "78L24",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "REGULADORES 03",
+              "codigo": "GV17-S02-G04",
+              "componentes": [
+                {
+                  "componente": "7905",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7906",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7908",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7912",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "REGULADORES 04",
+              "codigo": "GV17-S02-G05",
+              "componentes": [
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7915",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7924",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 18",
+      "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI 01 a 05",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 01",
+              "codigo": "GV18-S01-G01",
+              "componentes": [
+                {
+                  "componente": "AMI8450",
+                  "quantidade": null
+                },
+                {
+                  "componente": "OP471",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MBL8088",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN7491",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AT89C85WD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "I8205",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 02",
+              "codigo": "GV18-S01-G02",
+              "componentes": [
+                {
+                  "componente": "MC74HC534",
+                  "quantidade": null
+                },
+                {
+                  "componente": "T74L593",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN5407J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN7426N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "1590A41H",
+                  "quantidade": null
+                },
+                {
+                  "componente": "Q30AXQ18-1LA4",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 03",
+              "codigo": "GV18-S01-G03",
+              "componentes": [
+                {
+                  "componente": "SN74LS221N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN744145N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IC74LS367",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN74LS283N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74LS51",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DM8820AN",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 04",
+              "codigo": "GV18-S01-G04",
+              "componentes": [
+                {
+                  "componente": "MD8155H",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DG506ABK",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UCI901J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DM74LS21N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D8088",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 05",
+              "codigo": "GV18-S01-G05",
+              "componentes": [
+                {
+                  "componente": "NS405-B18N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DM7426N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "RH8122G",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D2817A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "RH15A332G",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI 06 a 10",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 06",
+              "codigo": "GV18-S02-G01",
+              "componentes": [
+                {
+                  "componente": "MC14562",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14529",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LF256H",
+                  "quantidade": null
+                },
+                {
+                  "componente": "RT4174501",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC1748",
+                  "quantidade": null
+                },
+                {
+                  "componente": "77CD2YM",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 07",
+              "codigo": "GV18-S02-G02",
+              "componentes": [
+                {
+                  "componente": "TL182CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DAC1020",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD558JN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IC2560T",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD7524",
+                  "quantidade": null
+                },
+                {
+                  "componente": "M51995AP",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 08",
+              "codigo": "GV18-S02-G03",
+              "componentes": [
+                {
+                  "componente": "CD4585BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "C3423C",
+                  "quantidade": null
+                },
+                {
+                  "componente": "RH8Y122G",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IC2560T",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HD74SL21P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN7493AN",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 09",
+              "codigo": "GV18-S02-G04",
+              "componentes": [
+                {
+                  "componente": "TDA1675A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN74LS21N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PAL16C1NC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "L6569A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "S8015",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TDA1524A",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 10",
+              "codigo": "GV18-S02-G05",
+              "componentes": [
+                {
+                  "componente": "DM7492AN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TC4556BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "F12134F",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TL7705ACP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SNC54LS266J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4071",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 19",
+      "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI 11 a 15",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 11",
+              "codigo": "GV19-S01-G01",
+              "componentes": [
+                {
+                  "componente": "MC668L",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "P8237A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "GT4664205",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN7446",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 12",
+              "codigo": "GV19-S01-G02",
+              "componentes": [
+                {
+                  "componente": "413ZR20",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TMM2068D-5S",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIL113",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TIL117",
+                  "quantidade": null
+                },
+                {
+                  "componente": "RH8Y102J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "P52001B",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 13",
+              "codigo": "GV19-S01-G03",
+              "componentes": [
+                {
+                  "componente": "AD7533JN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UA3086",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM3086",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MWS5101EL3",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CA3086",
+                  "quantidade": null
+                },
+                {
+                  "componente": "EF6850",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 14",
+              "codigo": "GV19-S01-G04",
+              "componentes": [
+                {
+                  "componente": "QTCH11A1",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AM91LI4EPC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AM9111DPC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CA314",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SM7576",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AM9111CPC",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 15",
+              "codigo": "GV19-S01-G05",
+              "componentes": [
+                {
+                  "componente": "RC4136N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HCF4060BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "G4481532BW",
+                  "quantidade": null
+                },
+                {
+                  "componente": "G4189101BM",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TM5085NC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "L6270054",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI 16 a 20",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 16",
+              "codigo": "GV19-S02-G01",
+              "componentes": [
+                {
+                  "componente": "V4048D",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM2917",
+                  "quantidade": null
+                },
+                {
+                  "componente": "P3205",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM2917N-8",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MOC3041",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CA3085H",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 17",
+              "codigo": "GV19-S02-G02",
+              "componentes": [
+                {
+                  "componente": "D80287-8",
+                  "quantidade": null
+                },
+                {
+                  "componente": "KA567",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4528",
+                  "quantidade": null
+                },
+                {
+                  "componente": "FDS5235",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM566",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN7412",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 18",
+              "codigo": "GV19-S02-G03",
+              "componentes": [
+                {
+                  "componente": "MB8516",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM1917N-8",
+                  "quantidade": null
+                },
+                {
+                  "componente": "M5003F",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD3172-1",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4724-BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "BA612",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 19",
+              "codigo": "GV19-S02-G04",
+              "componentes": [
+                {
+                  "componente": "LM3585MD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC3525ADW",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC3845AM",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DS75160AN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "ADM211EARZ",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TC5402BP",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 20",
+              "codigo": "GV19-S02-G05",
+              "componentes": [
+                {
+                  "componente": "ID8279",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TL074CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HFC4516",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UA741DM",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 20",
+      "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI 21 a 25",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 21",
+              "codigo": "GV20-S01-G01",
+              "componentes": [
+                {
+                  "componente": "MC14511BCP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC1489N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14015",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HM6287LP-70",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HI5043  2",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN74HC86N",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 22",
+              "codigo": "GV20-S01-G02",
+              "componentes": [
+                {
+                  "componente": "D8253",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TC4555BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LS141T",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DAC-08CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CA3046",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IR2112",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 23",
+              "codigo": "GV20-S01-G03",
+              "componentes": [
+                {
+                  "componente": "B8282C",
+                  "quantidade": null
+                },
+                {
+                  "componente": "RM4136DC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "74154N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HTI-507A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM301AN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TDA2040",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 24",
+              "codigo": "GV20-S01-G04",
+              "componentes": [
+                {
+                  "componente": "HD46508PA",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC68HC705P6ACR",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MB8416A-15",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DT7201",
+                  "quantidade": null
+                },
+                {
+                  "componente": "U4042187",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 25",
+              "codigo": "GV20-S01-G05",
+              "componentes": [
+                {
+                  "componente": "P8259A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "P8085AH-2",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IC8287A-5",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D8237AC-5",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HA17741",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SFH601-3",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI 26 a 30",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 26",
+              "codigo": "GV20-S02-G01",
+              "componentes": [
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MM74C154N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "S8724",
+                  "quantidade": null
+                },
+                {
+                  "componente": "K184855FF",
+                  "quantidade": null
+                },
+                {
+                  "componente": "PAL20L8ACNS",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 27",
+              "codigo": "GV20-S02-G02",
+              "componentes": [
+                {
+                  "componente": "MC3423P1",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN7HC45N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MB8128-15",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TMS9914NL",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC1489P",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 28",
+              "codigo": "GV20-S02-G03",
+              "componentes": [
+                {
+                  "componente": "HEF4076",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LM324",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TLC2274A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4GH206",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SFH617A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CA3085AE",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 29",
+              "codigo": "GV20-S02-G04",
+              "componentes": [
+                {
+                  "componente": "AD3172-7648L",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD3172-7348M",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD3172-7649F",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD3172-7338N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD3172-7715L",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD3172-422M",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 30",
+              "codigo": "GV20-S02-G05",
+              "componentes": [
+                {
+                  "componente": "KF351",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC2842N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LF441CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LF347N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UDN2981A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DG307CJ",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Gaveteiro 21",
+      "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI 31 a 35",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 31",
+              "codigo": "GV21-S01-G01",
+              "componentes": [
+                {
+                  "componente": "SCB68172C2N28",
+                  "quantidade": null
+                },
+                {
+                  "componente": "6ACPA",
+                  "quantidade": null
+                },
+                {
+                  "componente": "IR8908",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN54LS00J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HM12BF",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 32",
+              "codigo": "GV21-S01-G02",
+              "componentes": [
+                {
+                  "componente": "UC2802A",
+                  "quantidade": null
+                },
+                {
+                  "componente": "NS455-A12M",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HCF4532BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "7612",
+                  "quantidade": null
+                },
+                {
+                  "componente": "4116R",
+                  "quantidade": null
+                },
+                {
+                  "componente": "TBP18S030",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 33",
+              "codigo": "GV21-S01-G03",
+              "componentes": [
+                {
+                  "componente": "ADC80-12",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC33065",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DG133",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF4010",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MS8027",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC68B45P",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 34",
+              "codigo": "GV21-S01-G04",
+              "componentes": [
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MES8732",
+                  "quantidade": null
+                },
+                {
+                  "componente": "P8085AC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D8085AC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "UC1901J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN74LS280N",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 35",
+              "codigo": "GV21-S01-G05",
+              "componentes": [
+                {
+                  "componente": "IR8848",
+                  "quantidade": null
+                },
+                {
+                  "componente": "QFP3920",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HFC4516BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DG307ABK",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD7541AKN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "CD4518BE",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_secao": "CI 36 a 40",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 36",
+              "codigo": "GV21-S02-G01",
+              "componentes": [
+                {
+                  "componente": "DS1287",
+                  "quantidade": null
+                },
+                {
+                  "componente": "B703CJ",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D720AC",
+                  "quantidade": null
+                },
+                {
+                  "componente": "COM9026",
+                  "quantidade": null
+                },
+                {
+                  "componente": "C6134",
+                  "quantidade": null
+                },
+                {
+                  "componente": "NEC8437D2",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 37",
+              "codigo": "GV21-S02-G02",
+              "componentes": [
+                {
+                  "componente": "SN7451N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN7417N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DM74LS36SAN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HD7416P",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN74HCT374N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN741278N",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 38",
+              "codigo": "GV21-S02-G03",
+              "componentes": [
+                {
+                  "componente": "AD7541",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN74S04N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MC14106BCP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "944PC 7801",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HCF4518",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 39",
+              "codigo": "GV21-S02-G04",
+              "componentes": [
+                {
+                  "componente": "M64102BA088",
+                  "quantidade": null
+                },
+                {
+                  "componente": "-",
+                  "quantidade": null
+                },
+                {
+                  "componente": "MCP508AG",
+                  "quantidade": null
+                },
+                {
+                  "componente": "X2816BP",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AD#0734",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HCF4025T",
+                  "quantidade": null
+                }
+              ]
+            },
+            {
+              "nome_gaveta": "CI 40",
+              "codigo": "GV21-S02-G05",
+              "componentes": [
+                {
+                  "componente": "HCF4511BE",
+                  "quantidade": null
+                },
+                {
+                  "componente": "DM7483",
+                  "quantidade": null
+                },
+                {
+                  "componente": "SN55182J",
+                  "quantidade": null
+                },
+                {
+                  "componente": "LF412ACN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "HEF40097BD",
+                  "quantidade": null
+                },
+                {
+                  "componente": "M74HCD4B1",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gaveteiro": "Seção Pendente (Avulsos adicionais)",
+      "localizacao_detalhada": "Primeiro Armário Terceira coluna",
+      "secoes": [
+        {
+          "nome_secao": "CI 41 PENDENTE",
+          "data_revisao": "2026-12-20",
+          "gavetas": [
+            {
+              "nome_gaveta": "CI 41",
+              "codigo": "GV22-S01-G01",
+              "componentes": [
+                {
+                  "componente": "LM3046N",
+                  "quantidade": null
+                },
+                {
+                  "componente": "D4013 / TL084CN",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "AT89C55",
+                  "quantidade": null
+                },
+                {
+                  "componente": "VAZIO",
+                  "quantidade": null
+                },
+                {
+                  "componente": "X28C256P-25",
+                  "quantidade": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
