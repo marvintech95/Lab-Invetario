@@ -1,0 +1,34 @@
+"inventario": {
+"armario": "Primeiro Armário",
+"coluna": "Segunda e Terceira colunas",
+"gaveteiros": [
+{
+"gaveteiro": "Gaveteiro 01",
+"localizacao_detalhada": "Primeiro Armário segunda coluna",
+"secoes": [
+{
+"nome_secao": "SMD 01 a 05",
+"data_revisao": "2026-12-20",
+"gavetas": {
+"SMD 01": ["VAZIO", "UC2875DW", "LM358M", "D7F3CGK", "UC3843AD"
+"SMD 02": ["BAV995MD", "UC2843AD", "VAZIO", "HEF4013BT", "UC385
+"SMD 03": ["BZX84C12", "BZX84C18", "4019B", "TLC372", "LM311",
+"SMD 04": ["HC4066A", "CD4013", "HC4538", "1SMA5929BT3G", "VAZI
+"SMD 05": ["HEF40106BT", "HEF4046B", "HEF4073", "HEF4011", "CD4
+}
+},
+{
+"nome_secao": "SMD 06 a 10",
+"data_revisao": "2026-12-20",
+"gavetas": {
+"SMD 06": ["IR2113S", "MC3303D", "LM224", "UC3854", "HCNR200",
+"SMD 07": ["DG211BDY", "L4981", "C324G", "257602T-5", "AC08", "
+"SMD 08": ["OMF63", "LF459", "OMF250", "LF3A", "CXD1217M", "26L
+"SMD 09": ["C940", "PJ4NMK", "LM78L", "ADM211", "MC33274", "VAZ
+"SMD 10": ["BZX84C15", "VAZIO", "BZX84C27", "BZX84C22", "76P",
+}
+}
+]
+},
+{
+"
