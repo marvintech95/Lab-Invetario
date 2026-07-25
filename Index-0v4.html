@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventário Paramétrico</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --background: #f8fafc;
+            --surface: #ffffff;
+            --text-main: #1e293b;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background-color: var(--background);
+            color: var(--text-main);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1100px;
+            background-color: var(--surface);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        header {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        h1 { margin: 0; font-size: 1.8rem; color: var(--primary); }
+
+        .search-container { position: relative; }
+
+        #searchBar {
+            width: 100%;
+            padding: 15px 20px;
+            font-size: 1rem;
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            box-sizing: border-box;
+            transition: border-color 0.2s;
+        }
+
+        #searchBar:focus { outline: none; border-color: var(--primary); }
+
+        .stats { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 15px; }
+
+        table { width: 100%; border-collapse: collapse; text-align: left; }
+        th, td { padding: 12px 15px; border-bottom: 1px solid var(--border); }
+        th { background-color: var(--background); font-weight: 600; color: var(--text-muted); }
+        tr:hover { background-color: #f1f5f9; }
+
+        .badge {
+            background-color: #e0e7ff;
+            color: #3730a3;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+        
+        .status {
+            font-size: 0.8rem;
+            padding: 3px 6px;
+            border-radius: 4px;
+            background-color: #fef3c7;
+            color: #4f46e5;
+        }
+
+        .empty-state { text-align: center; padding: 40px; color: var(--text-muted); }
+        .error-state { color: #dc2626; text-align: center; padding: 20px; font-weight: bold;}
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>📦 Banco de Componentes</h1>
+            <div class="search-container">
+                <input type="text" id="searchBar" placeholder="Pesquise por componente, ID, gaveteiro...">
+            </div>
+            <div class="stats" id="statsDisplay">Conectando ao banco de dados...</div>
+        </header>
+
+        <main>
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Componente</th>
+                        <th>Qtd.</th>
+                        <th>Localização</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody id="resultsBody">
+                    </tbody>
+            </table>
+        </main>
+    </div>
+
+    <script>
+        let componentsList = [];
+        const searchBar = document.getElementById('searchBar');
+        const resultsBody = document.getElementById('resultsBody');
+        const statsDisplay = document.getElementById('statsDisplay');
+
+        // 1. Função para carregar o arquivo JSON externo
+        async function carregarDados() {
+            try {
+                const response = await fetch('dados.json');
+                if (!response.ok) {
+                    throw new Error(`Erro HTTP: ${response.status}`);
+                }
+                const data = await response.json();
+                componentsList = data.inventario; // Acessa o array da nova estrutura
+                renderTable(componentsList);
+            } catch (error) {
+                console.error("Falha ao carregar o JSON:", error);
+                resultsBody.innerHTML = `<tr><td colspan="5" class="error-state">
+                    ⚠️ Erro ao carregar 'dados.json'.<br><br>
+                    Lembre-se: Por motivos de segurança, navegadores bloqueiam requisições "fetch" se você abrir o arquivo diretamente dando dois cliques (file://).<br>
+                    Você precisa rodar isso em um servidor local (ex: Live Server do VS Code).
+                </td></tr>`;
+                statsDisplay.textContent = "Erro de conexão.";
+            }
+        }
+
+        // 2. Função para renderizar a tabela
+        function renderTable(data) {
+            resultsBody.innerHTML = '';
+            
+            if (data.length === 0) {
+                resultsBody.innerHTML = `<tr><td colspan="5" class="empty-state">Nenhum componente encontrado.</td></tr>`;
+                statsDisplay.textContent = `0 componentes visíveis.`;
+                return;
+            }
+
+            data.forEach(item => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td style="font-size: 0.85rem; color: #64748b;">${item.id}</td>
+                    <td style="font-weight: 600;">${item.componente}</td>
+                    <td><span class="badge">${item.quantidade}</span></td>
+                    <td>${item.gaveteiro} ➔ ${item.secao} ➔ ${item.gaveta}</td>
+                    <td><span class="status">${item.status}</span></td>
+                `;
+                resultsBody.appendChild(tr);
+            });
+
+            statsDisplay.textContent = `${data.length} componente(s) cadastrado(s).`;
+        }
+
+        // 3. Sistema de Busca Dinâmica
+        searchBar.addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+            const filteredData = componentsList.filter(item => 
+                item.componente.toLowerCase().includes(query) ||
+                item.id.toLowerCase().includes(query) ||
+                item.gaveteiro.toLowerCase().includes(query) ||
+                item.secao.toLowerCase().includes(query)
+            );
+            renderTable(filteredData);
+        });
+
+        // 4. Iniciar a aplicação
+        carregarDados();
+    </script>
+</body>
+</html>
