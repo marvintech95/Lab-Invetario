@@ -138,12 +138,12 @@ function renderTable() {
     tr.className = `status-${normalizeText(row.status).toLowerCase()}`;
 
     tr.innerHTML = `
-      <td>${row.codigo}</td>
+      <td>${row.gaveteiro}</td>
       <td>${row.componente}</td>
       <td>${row.quantidade}</td>
-      <td>${row.gaveteiro}</td>
       <td>${row.secao}</td>
       <td>${row.gaveta}</td>
+      <td>${row.codigo}</td>
     `;
 
     fragment.appendChild(tr);
